@@ -6,4 +6,4 @@
 ---
 ##### SUBIR EL MEME QUE CREAMOS EN EL PRIMER MOMENTO
 
-![MEme Agus](https://github.com/conectarLab-mendoza/grupo-3/blob/Agus/XNDUHUG2KJAAXJTUREHNI675EI.avif)
+![MEme Agus](./XNDUHUG2KJAAXJTUREHNI675EI.avif)
