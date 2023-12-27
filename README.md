@@ -6,4 +6,4 @@
 ---
 ##### Ya lo subi
 
-![MEME Luchin](./meme.jpg)
+![MEME Luchin](./makeitmeme_0iUA3.jpeg)
