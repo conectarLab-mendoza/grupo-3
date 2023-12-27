@@ -6,4 +6,4 @@
 ---
 ##### SUBIR EL MEME QUE CREAMOS EN EL PRIMER MOMENTO
 
-![MEME HOMER](./makeitmeme_FZAAU.jpeg)
+![MEME LUCHO](./makeitmeme_FZAAU.jpeg)
