@@ -8,4 +8,3 @@
 
 ![MEME HOMER](./makeitmeme_d9BVg.gif)
 
-## Meme Leo
